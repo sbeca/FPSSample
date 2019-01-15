@@ -20,6 +20,7 @@ PhysicsManager:
   m_LayerCollisionMatrix: fffbfd78ffb3fc60ffb3fc60ffffffffffb3fc60ffb3fc60ffffffffffffffffffb3fc60ffb3ff60c880ff67c900fee7ffb3fc60ffb3fc60c940cc00ffb7ff60c986ee00c88ecd18ffffffffffffe700ffbfe418ffbfdd00ffffffffffffffffc80cc418c80cc400c80cc400c900d6c1c900d6a1ffbfc410ffbfc408c808c418
   m_AutoSimulation: 1
   m_AutoSyncTransforms: 1
+  m_ReuseCollisionCallbacks: 0
   m_ClothInterCollisionSettingsToggle: 0
   m_ContactPairsMode: 0
   m_BroadphaseType: 0
